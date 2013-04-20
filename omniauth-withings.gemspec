@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "omniauth-withings/version"
 
 Gem::Specification.new do |s|
-  s.name        = "omniauth-yahoo"
+  s.name        = "omniauth-withings"
   s.version     = Omniauth::Withings::VERSION
   s.authors     = ["Bethany Soule", "Joshua Kelly"]
   s.homepage    = "https://github.com/jdjkelly/omniauth-withings"
